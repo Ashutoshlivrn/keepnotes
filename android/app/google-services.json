@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686832638359",
+    "project_id": "keepnotes-f65bd",
+    "storage_bucket": "keepnotes-f65bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686832638359:android:e009fd35b5489f59904cd2",
+        "android_client_info": {
+          "package_name": "com.example.keepnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686832638359-fbvokkpp1agc9ivq7ahnhpl2p6f33cja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keepnotes",
+            "certificate_hash": "e22913b6fd44b0a81cc66bd53b9faffbd7e3118c"
+          }
+        },
+        {
+          "client_id": "686832638359-ougiavki5tqe7bkdb6gbd5c07itsll9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXrtSAc5_bG6qx4MWsvVAiVM2ekNH7nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686832638359-ougiavki5tqe7bkdb6gbd5c07itsll9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
